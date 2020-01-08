@@ -2,6 +2,7 @@
 *.zip
 *.wav
 *.wav.1
+*.txt
 
 # Compiled class file
 *.class
